@@ -1,0 +1,14 @@
+{
+	"id": "com.rsanchez1.dashboard",
+	"version": "1.0.0",
+	"vendor": "rsanchez1",
+	"type": "web",
+	"main": "index.html",
+	"title": "Dashboard Example",
+	"icon": "icon.png",
+    "removable" : "true",
+    "noWindow" : "true",
+    "visible": "true",
+    "theme" : "dark",
+    "noDeprecatedStyle" : "true"
+}
