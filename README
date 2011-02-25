@@ -1,0 +1,3 @@
+This is an example of how to use dashboards for webOS apps.
+
+On discarding the main card, a dashboard will be activated. The dashboard can be tapped to launch the main card again, which closes the dashboard. The second time the main card is discarded, the dashboard will not activate.
